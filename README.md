@@ -1,1 +1,1 @@
-# strapi-init
+# strapi-initdd
